@@ -11,3 +11,16 @@ tmpfs                1.0M     0  1.0M   0% /run/credentials/systemd-journald.ser
 /dev/sda1            599M  8.5M  591M   2% /boot/efi
 tmpfs                759M  144K  759M   1% /run/user/1000
 tmpfs                759M   56K  759M   1% /run/user/0
+Filesystem           Size  Used Avail Use% Mounted on
+/dev/mapper/cs-root   70G  7.5G   63G  11% /
+devtmpfs             4.0M     0  4.0M   0% /dev
+tmpfs                3.8G   84K  3.8G   1% /dev/shm
+efivarfs             128M   30K  128M   1% /sys/firmware/efi/efivars
+tmpfs                1.5G   11M  1.5G   1% /run
+tmpfs                1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/sda2            960M  550M  411M  58% /boot
+/dev/mapper/cs-home   53G  1.1G   52G   2% /home
+/dev/sda1            599M  8.5M  591M   2% /boot/efi
+tmpfs                759M  144K  759M   1% /run/user/1000
+tmpfs                759M   56K  759M   1% /run/user/0
+Saturday 06 September 2025 01:16:49 PM IST
